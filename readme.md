@@ -1,13 +1,13 @@
 # Mech
 
-https://www.swyx.io/download-twitter-spaces
+<!-- https://www.swyx.io/download-twitter-spaces
 # make sure you have `git` installed!
 git clone https://github.com/89z/mech
 cd mech
 git reset 5b977a09590b883584662a656a14d393337411c1 --hard # old twitter functionality was removed https://github.com/89z/mech/issues/71
 cd cmd/twitter
 # make sure you have `go` installed!
-go build
+go build -->
 
 > Listen, um, I don’t really know what’s going on here, but I’m leaving. I
 > don’t know where exactly, but I’m gonna start over.
